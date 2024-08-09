@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spritkosten Rechner</string>
+	<string name="button_text">Berechnen</string>
+	<string name="ergHint">Verbauch in Lieter auf 100 Kilometer: </string>
+	<string name="durchVerbauchHint">Durchschnitlicher Verbrauch in L/100KM</string>
+	<string name="streckeHint">Strecke in Kilometer</string>
+	<string name="sprtiKostenHint">Spritkosten pro Lieter</string>
+</resources>
